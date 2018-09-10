@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <gl/gjson.h>
 #include "demo.h"
 
 int main(int argc , char *argv[])

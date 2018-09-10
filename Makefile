@@ -17,7 +17,7 @@ define Package/gl-demo
   SECTION:=base
   CATEGORY:=gl-inet
   TITLE:=GL iNet SDK3.0 demo
-  DEPENDS:=
+  DEPENDS:=+libjson-c
 endef
 
 define Package/gl-demo/description

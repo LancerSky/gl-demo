@@ -1,6 +1,6 @@
 CC=gcc
 CFLAGS+=
-LDFLAGS+= -lglutil -ljson-c
+LDFLAGS+= -ljson-c
 
 all: libraries demotest
 	@echo "compile done"
